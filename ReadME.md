@@ -4,7 +4,7 @@
 This project was part of my final year project.
 The intent of developing computational methods to predict mutagenicity in drug impurities 
 
-![Project Logo](./images/project-logo.png)
+*Please see Final_Writeup_1_1 for the intro, Methods, Results, Discussion as they provide an explanation on why I worked on this project*
 
 ## Features
 
@@ -23,3 +23,4 @@ Instructions for usage.
 
 ## Model 
 
+![model : kNIME DEEP LEARNING Mutagenicity](kNIME DEEP LEARNING Mutagenicity.jpg)
