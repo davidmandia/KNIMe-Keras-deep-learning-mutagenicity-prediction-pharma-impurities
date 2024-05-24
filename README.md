@@ -23,4 +23,4 @@ Instructions for usage.
 
 ## Model 
 
-![model : kNIME DEEP LEARNING Mutagenicity](https://raw.githubusercontent.com/davidmandia/KNIMe-Keras-deep-learning-mutagenicity-prediction-pharma-impurities/master/kNIME%20DEEP%20LEARNING%20Mutagenicity.jpg)
+##Please check the folder model 
